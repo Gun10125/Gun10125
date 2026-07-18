@@ -1,4 +1,3 @@
-# 💫 About Me:
 A multi-faceted view of the world changes the trajectory of the future
 
 # 📊 GitHub Stats:
